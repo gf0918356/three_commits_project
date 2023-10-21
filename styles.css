@@ -5,3 +5,11 @@ body {
 #my-page {
     background-color: blue;
 }
+
+.p {
+    color: orange;
+}
+
+#myImage {
+    border: 3px solid black;
+}
