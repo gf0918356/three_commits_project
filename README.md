@@ -1,4 +1,4 @@
-# Gitting Some Practice
+# More Git Practice
 ## Glenn Ford
 
 
